@@ -126,17 +126,17 @@
     text-decoration: none;
      font-size: 20px;
      position: relative;
-     left: 200px;
+     left: 170px;
      color: black;
   }
   
-  .box6{
-    width:330px;
+.box6{
+    width:300px;
     height:150px;
     background-color: white;
     border:2px solid white;
     position: relative;
-    bottom:500px;
+    bottom:10px;
     margin: auto;
     left: 11px;
     font-weight: bolder;
