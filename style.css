@@ -86,8 +86,11 @@
  }
  .lowercontainer{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
+    gap:30px;
     flex-wrap: wrap;
+    position: absolute;
+    left:100px;
  }
 
  /*index4*/
